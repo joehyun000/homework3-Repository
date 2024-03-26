@@ -68,5 +68,5 @@ float sum3(int n, float *list) {
     float tempsum = 0;
     for(i = 0; i < n; i++)         //합 계산
         tempsum += *(list + i);
-    return tempsum;
+    return tempsum;                //tempsum을 리턴
 }
