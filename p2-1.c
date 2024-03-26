@@ -10,7 +10,7 @@ float input[MAX_SIZE], answer;       // 전역변수 생성
 int i;
 
 void main(void) {
-    printf("[----- [박조현] [2021053017] -----]");
+    printf("[----- [박조현] [2021053017] -----]\n");
     for(i = 0; i < MAX_SIZE; i++)   // 배열의 값을 각각 input[i] = i로 초기화
         input[i] = i;
 

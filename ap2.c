@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void main() { 
-    printf("[----- [박조현] [2021053017] -----]");
+    printf("[----- [박조현] [2021053017] -----]\n");
 
     int list[5]; // int형 배열 list 선언
     int *plist[5]; // 포인터 배열 plist 선언

@@ -4,7 +4,7 @@ void print_one(int *ptr, int rows);    // print_one 함수 선언
 
 // main 함수
 int main() {
-    printf("[----- [박조현] [2021053017] -----]");    
+    printf("[----- [박조현] [2021053017] -----]\n");    
     int one[] = {0, 1, 2, 3, 4}; // int형 배열 one 선언 및 초기화
 
     // 배열 one의 주소와 첫 번째 요소의 주소 출력
